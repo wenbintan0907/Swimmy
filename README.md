@@ -35,28 +35,6 @@ Pygame library
 - Size-based eating mechanics
 - Menu system with play button
 - FPS display
-
-## 📁 Project Structure
-Swimmy/
-   src/
-      main.py
-   assets/
-      Bubble.png
-      Fish01_A.png
-      Fish01_B.png
-    ├── Fish02_A.png
-      Fish02_B.png
-      Fish03_A.png
-    ├── Fish03_B.png
-    ├── Fish04_A.png
-      Fish04_B.png
-      Scene_A.png
-      Scene_B.png
-    ├── Title.png
-    ├── BtnPlayIcon.png
-    ├── wenxi.png
-    ├── wenxi2.png
-    └── wenxi_open.png
     
 ## 🎯 Game Goal
 Grow as big as possible by eating smaller fish while avoiding larger ones. Your score increases based on the size of the fish you eat. The game ends if you collide with a fish larger than yourself.
