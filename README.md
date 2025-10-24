@@ -20,11 +20,11 @@ Pygame library
    python src/main.py
 
 ## 🎯 Game Controls
-Arrow Up: Swim up
-Arrow Down: Swim down
-Arrow Left: Swim left
-Arrow Right: Swim right
-ESC: Quit game
+- Arrow Up: Swim up
+- Arrow Down: Swim down
+- Arrow Left: Swim left
+- Arrow Right: Swim right
+- ESC: Quit game
 
 ## 🎨 Features
 Smooth swimming animations
