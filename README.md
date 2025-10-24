@@ -2,11 +2,11 @@
 A fun 2D underwater game where you play as a fish trying to grow bigger by eating smaller fish while avoiding larger ones.
 
 ## 🎮 Gameplay
-Control your fish using arrow keys (↑, ↓, ←, →)
-Eat fish smaller than you to grow bigger
-Avoid larger fish - they'll eat you!
-Watch out for your score in the top-left corner
-Bubbles automatically appear as you swim
+- Control your fish using arrow keys (↑, ↓, ←, →)
+- Eat fish smaller than you to grow bigger
+- Avoid larger fish - they'll eat you!
+- Watch out for your score in the top-left corner
+- Bubbles automatically appear as you swim
 
 ## 🔧 Requirements
 Python 3.x
