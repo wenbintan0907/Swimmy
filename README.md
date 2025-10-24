@@ -38,20 +38,20 @@ Pygame library
 
 ## 📁 Project Structure
 Swimmy/
-├── src/
-│   └── main.py
-└── assets/
-    ├── Bubble.png
-    ├── Fish01_A.png
-    ├── Fish01_B.png
+   src/
+      main.py
+   assets/
+      Bubble.png
+      Fish01_A.png
+      Fish01_B.png
     ├── Fish02_A.png
-    ├── Fish02_B.png
-    ├── Fish03_A.png
+      Fish02_B.png
+      Fish03_A.png
     ├── Fish03_B.png
     ├── Fish04_A.png
-    ├── Fish04_B.png
-    ├── Scene_A.png
-    ├── Scene_B.png
+      Fish04_B.png
+      Scene_A.png
+      Scene_B.png
     ├── Title.png
     ├── BtnPlayIcon.png
     ├── wenxi.png
