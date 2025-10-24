@@ -9,8 +9,8 @@ A fun 2D underwater game where you play as a fish trying to grow bigger by eatin
 - Bubbles automatically appear as you swim
 
 ## 🔧 Requirements
-Python 3.x
-Pygame library
+1. Python 3.x
+2. Pygame library
 
 ## 📥 Installation
 1. Clone the repository
