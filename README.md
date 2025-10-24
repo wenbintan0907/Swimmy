@@ -27,14 +27,14 @@ Pygame library
 - ESC: Quit game
 
 ## 🎨 Features
-Smooth swimming animations
-Dynamic background effects
-Different types of enemy fish
-Bubble particle effects
-Score tracking
-Size-based eating mechanics
-Menu system with play button
-FPS display
+- Smooth swimming animations
+- Dynamic background effects
+- Different types of enemy fish
+- Bubble particle effects
+- Score tracking
+- Size-based eating mechanics
+- Menu system with play button
+- FPS display
 
 ## 📁 Project Structure
 Swimmy/
