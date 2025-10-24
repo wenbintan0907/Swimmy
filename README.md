@@ -1,32 +1,32 @@
-#Swimmy
+# Swimmy
 A fun 2D underwater game where you play as a fish trying to grow bigger by eating smaller fish while avoiding larger ones.
 
-🎮 Gameplay
+## 🎮 Gameplay
 Control your fish using arrow keys (↑, ↓, ←, →)
 Eat fish smaller than you to grow bigger
 Avoid larger fish - they'll eat you!
 Watch out for your score in the top-left corner
 Bubbles automatically appear as you swim
 
-🔧 Requirements
+## 🔧 Requirements
 Python 3.x
 Pygame library
 
-📥 Installation
+## 📥 Installation
 1. Clone the repository
 2. Install the required dependency:
    pip install pygame
 3. Run the game:
    python src/main.py
 
-🎯 Game Controls
+## 🎯 Game Controls
 Arrow Up: Swim up
 Arrow Down: Swim down
 Arrow Left: Swim left
 Arrow Right: Swim right
 ESC: Quit game
 
-🎨 Features
+## 🎨 Features
 Smooth swimming animations
 Dynamic background effects
 Different types of enemy fish
@@ -36,7 +36,7 @@ Size-based eating mechanics
 Menu system with play button
 FPS display
 
-📁 Project Structure
+## 📁 Project Structure
 Swimmy/
 ├── src/
 │   └── main.py
@@ -58,5 +58,5 @@ Swimmy/
     ├── wenxi2.png
     └── wenxi_open.png
     
-🎯 Game Goal
+## 🎯 Game Goal
 Grow as big as possible by eating smaller fish while avoiding larger ones. Your score increases based on the size of the fish you eat. The game ends if you collide with a fish larger than yourself.
