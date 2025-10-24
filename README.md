@@ -15,9 +15,9 @@ Pygame library
 ## 📥 Installation
 1. Clone the repository
 2. Install the required dependency:
-   pip install pygame
+   ```pip install pygame```
 3. Run the game:
-   python src/main.py
+   ```python src/main.py```
 
 ## 🎯 Game Controls
 - Arrow Up: Swim up
