@@ -3,6 +3,8 @@ A fun 2D underwater game where you play as a fish trying to grow bigger by eatin
 
 ## Images
 <img src="images/picture1.png">
+<img src="images/picture2.png">
+<img src="images/picture3.png">
 
 ## 🎮 Gameplay
 - Control your fish using arrow keys (↑, ↓, ←, →)
