@@ -1,4 +1,3 @@
-md
 # Swimmy: Big Fish Eat Small Fish
 
 ## Description
