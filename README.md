@@ -1,6 +1,9 @@
 # Swimmy
 A fun 2D underwater game where you play as a fish trying to grow bigger by eating smaller fish while avoiding larger ones.
 
+## Images
+<img src="images/picture1.png">
+
 ## 🎮 Gameplay
 - Control your fish using arrow keys (↑, ↓, ←, →)
 - Eat fish smaller than you to grow bigger
